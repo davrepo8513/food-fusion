@@ -41,7 +41,7 @@ const ProductCard = ({ product }) => {
           className="product-image"
           loading="lazy"
         />
-        <div className="product-overlay">
+        {/* <div className="product-overlay">
           <button 
             className="add-to-cart-btn"
             onClick={handleAddToCart}
@@ -50,7 +50,7 @@ const ProductCard = ({ product }) => {
             <Plus size={20} />
             Add to Cart
           </button>
-        </div>
+        </div> */}
         <div className="product-category">{product.category}</div>
       </div>
 

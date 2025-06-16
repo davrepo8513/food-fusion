@@ -60,11 +60,11 @@ const TestComponents = () => {
             <h2>Pages Test</h2>
             <p>All pages are available:</p>
             <ul>
-              <li>Home - ✓</li>
-              <li>Menu - ✓</li>
-              <li>Cart - ✓</li>
-              <li>About - ✓</li>
-              <li>Contact - ✓</li>
+              <li><Home/>Home - ✓</li>
+              <li><Menu/>Menu - ✓</li>
+              <li><Cart/>Cart - ✓</li>
+              <li><About/>About - ✓</li>
+              <li><Contact/>Contact - ✓</li>
             </ul>
           </section>
         </div>

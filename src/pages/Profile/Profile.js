@@ -10,7 +10,6 @@ import {
   ShoppingBag,
   Heart,
   Clock,
-  Star,
   Camera
 } from 'lucide-react';
 import './Profile.css';

@@ -60,10 +60,6 @@ const Home = () => {
                 alt="Delicious Food"
                 className="hero-img"
               />
-              <div className="hero-badge">
-                <Star className="badge-icon" />
-                <span>4.9 Rating</span>
-              </div>
             </div>
           </div>
         </div>
