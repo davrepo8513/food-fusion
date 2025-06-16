@@ -1,0 +1,66 @@
+/* Enhanced Color Theme for Food-Fusion */
+:root {
+  /* Primary Colors - Warm and Appetizing */
+  --primary-orange: #ff6b35;
+  --primary-orange-light: #ff8c5a;
+  --primary-orange-dark: #e55a2b;
+  --primary-red: #e74c3c;
+  --primary-red-light: #ec7063;
+  --primary-red-dark: #c0392b;
+
+  /* Secondary Colors - Fresh and Natural */
+  --secondary-green: #27ae60;
+  --secondary-green-light: #58d68d;
+  --secondary-green-dark: #229954;
+  --secondary-yellow: #f39c12;
+  --secondary-yellow-light: #f7dc6f;
+  --secondary-yellow-dark: #d68910;
+
+  /* Neutral Colors */
+  --white: #ffffff;
+  --light-gray: #f8f9fa;
+  --medium-gray: #e9ecef;
+  --dark-gray: #6c757d;
+  --charcoal: #2c3e50;
+  --black: #1a1a1a;
+
+  /* Background Colors */
+  --bg-primary: #ffffff;
+  --bg-secondary: #fef9f6;
+  --bg-accent: #fff5f0;
+  --bg-dark: #2c3e50;
+
+  /* Text Colors */
+  --text-primary: #2c3e50;
+  --text-secondary: #6c757d;
+  --text-light: #95a5a6;
+  --text-white: #ffffff;
+
+  /* Border Colors */
+  --border-light: #e9ecef;
+  --border-medium: #dee2e6;
+  --border-dark: #adb5bd;
+
+  /* Shadow Colors */
+  --shadow-light: rgba(255, 107, 53, 0.1);
+  --shadow-medium: rgba(255, 107, 53, 0.2);
+  --shadow-dark: rgba(44, 62, 80, 0.15);
+
+  /* Gradient Colors */
+  --gradient-primary: linear-gradient(135deg, var(--primary-orange), var(--primary-red));
+  --gradient-secondary: linear-gradient(135deg, var(--secondary-green), var(--secondary-yellow));
+  --gradient-warm: linear-gradient(135deg, #ff6b35, #f39c12);
+  --gradient-cool: linear-gradient(135deg, #27ae60, #3498db);
+
+  /* Status Colors */
+  --success: #27ae60;
+  --warning: #f39c12;
+  --error: #e74c3c;
+  --info: #3498db;
+
+  /* Food Category Colors */
+  --pizza-color: #e74c3c;
+  --burger-color: #f39c12;
+  --dessert-color: #9b59b6;
+  --drink-color: #3498db;
+}
